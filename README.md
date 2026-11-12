@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DS201 - Lab 3: Mạng neural hồi quy cho phân loại văn bản và gán nhãn chuỗi
 
 Bài làm nằm trong một notebook: `Lab3_24520253.ipynb` (đã chạy xong, giữ nguyên output).
@@ -42,6 +41,3 @@ Chọn epoch theo F1 dev, tập test chỉ chấm một lần ở cuối.
 F1 của ba dòng phân loại là macro-F1, chỉ so sánh với nhau. Dòng NER là entity-F1 (seqeval, strict IOB2).
 
 Các hình và bảng số nằm trong `checkpoints/`. Checkpoint `.pt` không đưa lên repo.
-=======
-# DS201_LAB3_24520253
->>>>>>> 4c5b7f6702ab656ac6e1f45d62d23cbfacd5738f
